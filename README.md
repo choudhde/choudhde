@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @choudhde
-- 👀 I’m interested in AWS, Web Development, Serverless, Event Driven Architectures
+- 👀 I’m interested in AWS, IaC, CDK, Terraform, Web Development, Serverless, Event Driven Architectures
 - 🌱 I’m currently learning React & Next.js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects to be built & deployed on AWS 
 - 📫 How to reach me choudhude@gmail.com
 
 <!---

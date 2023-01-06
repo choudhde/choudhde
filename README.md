@@ -1,6 +1,6 @@
 - 👋 Hi, I’m DC 
 - 👀 I’m interested in AWS, IaC, CDK, Terraform, Web Development, Serverless, Event Driven Architectures
-- 🌱 I’m currently learning React & Next.js
+- 🌱 I’m currently learning & building projects using React & Next.js
 - 💞️ I’m looking to collaborate on Web Development, Serverless Architecture, IaC, AWS 
 - 📫 Reach me @choudhude@gmail.com
 

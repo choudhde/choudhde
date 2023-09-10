@@ -1,5 +1,5 @@
 - 👋 Hi, I’m DC 
-- 👀 I’m interested in AWS, building apps using LLMs,Serverless & Event Driven Architectures.
+- 👀 I’m interested in AWS, building apps using LLMs, Specialize on Serverless & Event Driven Architectures.
 - 🌱 I’m currently learning & building projects using OpenAI, Amazon Bedrock, Sagemaker Jumpstart, Serverless framework, Python, Node.js, React & building some exciting apps.
 - 💞️ I’m looking to collaborate on Web Development using LLMs, Distributed Systems, Messaging services,Serverless Architecture & EDA
 - 📫 Reach me @choudhude@gmail.com
